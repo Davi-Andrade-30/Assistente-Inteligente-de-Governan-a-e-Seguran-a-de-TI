@@ -1,0 +1,3 @@
+- Os testes de restauração de backup devem ser realizados em base trimestral.
+- As regras de firewall devem passar por revisão obrigatória a cada seis meses.
+- Incidentes de segurança devem ser reportados imediatamente à Unidade de Tecnologia (UTIP).
